@@ -1,0 +1,2 @@
+# Question-and-Answer-Application-Using-Langchain-and-Gemini-Flash
+This Q&amp;A application for an online educational platform allows users to ask questions about educational technology and receive precise answers using advanced language models and FAISS for efficient document retrieval. Built with LangChain and Streamlit, it features a user-friendly interface and visual enhancements for an improved experience.
